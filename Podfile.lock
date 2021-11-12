@@ -1,0 +1,41 @@
+PODS:
+  - Alamofire (5.4.3)
+  - BWWalkthrough (4.0.0)
+  - DatePickerDialog (4.0)
+  - IQKeyboardManagerSwift (6.5.6)
+  - libPhoneNumber-iOS (0.9.15)
+  - MBProgressHUD (1.2.0)
+  - SwiftyJSON (5.0.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.2)
+  - BWWalkthrough
+  - DatePickerDialog
+  - IQKeyboardManagerSwift
+  - libPhoneNumber-iOS
+  - MBProgressHUD
+  - SwiftyJSON
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - BWWalkthrough
+    - libPhoneNumber-iOS
+    - MBProgressHUD
+  trunk:
+    - Alamofire
+    - DatePickerDialog
+    - IQKeyboardManagerSwift
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: e447a2774a40c996748296fa2c55112fdbbc42f9
+  BWWalkthrough: 9f46edbd1a145c74f3e5287b01cb4a884c840bf2
+  DatePickerDialog: ccff2f91ff7a018057a4d72fa5ad6de49c8cb0cd
+  IQKeyboardManagerSwift: c7df9d2deb356c04522f5c4b7b6e4ce4d8ed94fe
+  libPhoneNumber-iOS: 0a32a9525cf8744fe02c5206eb30d571e38f7d75
+  MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
+  SwiftyJSON: 2f33a42c6fbc52764d96f13368585094bfd8aa5e
+
+PODFILE CHECKSUM: f39bb53f7efc92d2af1e78a2f0bc967cf76686c4
+
+COCOAPODS: 1.11.2
